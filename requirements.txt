@@ -1,0 +1,7 @@
+importlib-metadata       6.7.0
+imutils                  0.5.4
+matplotlib               3.5.3
+mediapipe                0.8.6.2
+numpy                    1.17.0
+opencv-contrib-python    4.8.1.78
+opencv-python            3.4.17.63
