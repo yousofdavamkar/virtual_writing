@@ -1,12 +1,7 @@
 <h1 align="center">Virtual Handwriting to Text Converter</h1>
 
-
-
-<h2 align="center">Bachelor's Degree in Software Engineering</h2>
-
 <p align="center">
   <strong>Project Topic:</strong> Converting Virtual Handwriting to Readable Text File<br>
-  <strong>Supervisor:</strong> Dr. Farhad Rad<br>
   <strong>Student:</strong> Yousof Davamkar
 </p>
 
