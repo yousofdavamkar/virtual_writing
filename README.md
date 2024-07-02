@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Project Topic:</strong> Converting Virtual Handwriting to Readable Text File<br>
   <strong>Supervisor:</strong> Dr. Farhad Rad<br>
-  <strong>Student:</strong> Yousef Davamkar
+  <strong>Student:</strong> Yousof Davamkar
 </p>
 
 <h2>Abstract</h2>
